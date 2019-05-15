@@ -10,17 +10,16 @@ This Project uses a number of open source and closed source sub-modules to work 
 * **Node.js** - Evented I/O for the backend
 * **Xavier Control Panel** - EMOTIV Software for data acquisition
 * **OpenVibe Acquisition Panel** - Open source software for raw data acquisition
-* **LSL** - Lab Streaming Layer
 ***
 
 
 ### Installation
 
-Install MATLAB
-Install npm (Node installer package like pip for python)
-Install Node.js via npm (or from the [website](https://nodejs.org/en/))
-Install ar-drone JavaScript Library via npm
-Install Xavier Control Panel [here](https://drive.google.com/drive/folders/14w7MrvZJy8Cn7_gXhZbSCtEljkP86xLF?usp=sharing)
+* Install MATLAB
+* Install npm (Node installer package like pip for python)
+* Install Node.js via npm (or from the [website](https://nodejs.org/en/))
+* Install ar-drone JavaScript Library via npm
+* Install Xavier Control Panel [here](https://drive.google.com/drive/folders/14w7MrvZJy8Cn7_gXhZbSCtEljkP86xLF?usp=sharing)
 
 ```sh
 $ npm install nodejs
